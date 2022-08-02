@@ -13,7 +13,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=iHosseinKhakpoor/iHosseinKhakpoor)
 
 <br />
-<br />
 
 - 💼 any freelance work? do reach, [email](khakpwr2@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
