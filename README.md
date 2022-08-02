@@ -13,7 +13,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=iHosseinKhakpoor/iHosseinKhakpoor)
 
 <br />
-hi, i'm Hoseein Khakpoor, a passionate self-taught full stack web developer and a freelance software engineer from Iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm Hoseein Khakpoor, a passionate self-taught web developer and a  software engineer from Iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 Also, I have a website called [Faraa Code](https://www.faraacode.ir/) for teaching programming
 - 💼 any freelance work? do reach, gmail : khakpwr2@gmail.com :)
