@@ -18,7 +18,7 @@ hi, i'm Hoseein Khakpoor, a passionate self-taught web developer and a  software
 
 Also, I have a website called [Faraa Code](https://www.faraacode.ir/) for teaching programming
 
-- 💼 any freelance work? do reach, gmail : khakpwr2@gmail.com :
+- 💼 any freelance work? do reach, gmail : khakpwr2@gmail.com :)
 - 💬 ask me about anything, i am happy to help;
 
 
