@@ -1,6 +1,6 @@
 
 # Fara Khakpoor
-<a href="https://www.instagram.com/iHosseinKhakpoor/">
+<a href="https://www.instagram.com/FaraKhakpoor/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/HosseinKhakpoor#9750">
@@ -14,7 +14,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=iHosseinKhakpoor/iHosseinKhakpoor)
 
 <br />
-hi, i'm Hoseein Khakpoor, a passionate self-taught web developer and a  software engineer from Iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm Fara Khakpoor, a passionate self-taught web developer and a  software engineer from Iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 
 Also, I have a website called [Faraa Code](https://www.faraacode.ir/) for teaching programming
