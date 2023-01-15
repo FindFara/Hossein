@@ -21,8 +21,3 @@ Also, I have a website called [Faraa Code](https://www.faraacode.ir/) for teachi
 
 - 💼 any freelance work? do reach, gmail : khakpwr2@gmail.com :)
 - 💬 ask me about anything, i am happy to help;
-
-
-📈 my github stats 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosseinKhakpour&show_icons=true&theme=transparent)
