@@ -25,4 +25,4 @@ Also, I have a website called [Faraa Code](https://www.faraacode.ir/) for teachi
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iHosseinKhakpour&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HosseinKhakpour&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
