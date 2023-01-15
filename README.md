@@ -7,14 +7,14 @@
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/hossein-khakpoor-664408244/">
+<a href="https://www.linkedin.com/in/hossein-khakpour-664408244/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iHosseinKhakpoor/iHosseinKhakpoor)
 
 <br />
-hi, i'm Fara Khakpoor, a passionate self-taught web developer and a  software engineer from Iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm Hossein Khakpour, a passionate self-taught web developer and a  software engineer from Iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 
 Also, I have a website called [Faraa Code](https://www.faraacode.ir/) for teaching programming
@@ -25,4 +25,4 @@ Also, I have a website called [Faraa Code](https://www.faraacode.ir/) for teachi
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iHosseinKhakpoor&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iHosseinKhakpour&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
